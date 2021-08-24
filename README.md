@@ -1,4 +1,4 @@
-Your task is to implement the included design (`design.fig`, a [Figma](https://www.figma.com/) file) and build it using React and the [TV Maze API](https://www.tvmaze.com/api).
+Your task is to implement the included design (`design.fig`, a [Figma](https://www.figma.com/) file) and build it using any technology you are comfortable with and the [TV Maze API](https://www.tvmaze.com/api).
 
 Use the [show index endpoint](https://www.tvmaze.com/api#show-index) to select three random shows from the first page and then query the episodes to show the first three in the image gallery, preselecting the first episode.
 
